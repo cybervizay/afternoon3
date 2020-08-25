@@ -17,3 +17,5 @@ Pros:
 
 Cons:-
 - add command separatly to each container spec in the pod (should not be a problem)
+
+ aws_access_key_id='AKIAIO5FODNN7EXAMPLE'
